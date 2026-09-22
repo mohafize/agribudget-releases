@@ -1,0 +1,11 @@
+AGRIBUDGET PRIVACY NOTICE — VERSION 1.0
+
+Effective date: 14 September 2026
+
+The application does not collect user data or send it to any server. There are no user accounts, analytics, tracking, or synchronization.
+
+Budget data and settings are stored locally on the device. Each device has independent data; data is not transferred automatically between phone and computer or between devices.
+
+Android system backup mechanisms may process application data according to the device settings and system services selected by the user. Such processing is controlled by the device settings and the selected backup provider, not by a server operated by the application.
+
+The user is responsible for creating backups, keeping them safe, and testing restoration. Removing the application or losing or damaging the device may result in data loss.

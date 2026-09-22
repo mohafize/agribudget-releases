@@ -1,0 +1,11 @@
+AGRIBUDGET 1.0 RELEASE NOTES
+
+Release date: 14 September 2026
+
+- Public version and display version: 1.0.
+- Android internal version code: 2, allowing upgrade from the prior version-code-1 build.
+- Windows file version: 1.0.0.0; product version: 1.0.
+- Universal 64-bit Android package signed with the approved release key.
+- Portable, self-contained 64-bit Windows build; intentionally not digitally signed.
+- Data is local and independent on each device; there is no synchronization.
+- Android runs on 4 KB devices and uses the official compatibility mode on 16 KB devices. It is not currently natively 16 KB compatible; an update will be issued when a stable platform fix is available.

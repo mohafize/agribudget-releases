@@ -1,0 +1,49 @@
+AGRIBUDGET APPLICATION USE AND DISTRIBUTION LICENSE — VERSION 1.0
+
+Effective date: 14 September 2026
+
+Rights holder: Mohamedelhafiz Elhussein Mohamed Ismail
+
+Brand used:
+
+MOHAFIZE
+
+Use of this brand does not state or imply that it is a company or a registered trademark.
+
+1. Acceptance
+By installing, using, copying, or redistributing the application, you accept this License. If you do not accept it, you may not install, use, copy, or redistribute the application.
+
+2. Free Use
+The rights holder grants you a limited, personal, non-exclusive, non-transferable license to use the original, complete, unmodified binary application free of charge for personal and professional purposes, subject to this License.
+
+3. Professional Work
+You may charge for services or professional work you perform using the application. You may not charge for the application itself or require a fee, subscription, or mandatory donation to obtain it.
+
+4. Redistribution
+You may redistribute only the original, complete, unmodified binary application, and only free of charge, provided that you include this License, the Privacy Notice, the third-party notices, and all files required by the application, and do not remove or alter the rights holder's information.
+
+5. Restrictions
+You may not sell the application or require a fee, subscription, or mandatory donation to obtain it. You may not modify the rights-holder-owned application, create a derivative version, circumvent its protections, claim ownership, or remove the owner's name, information, licenses, or notices, except to the extent required by a mandatory right that applicable law does not permit to be waived.
+
+6. Source Code
+The application's source code is private and unpublished. This License grants no right to obtain, use, modify, or distribute it.
+
+7. Third-Party Components
+Rights in third-party components, fonts, and libraries remain governed by their respective licenses, as identified in the third-party notices and the license directory. This License neither limits nor replaces rights granted by those licenses.
+
+8. Microsoft Components Distributed with the Windows Build
+The Windows build includes Microsoft redistributable components governed by their original terms included in the license directory. You and any redistributor accept all applicable redistribution obligations, including passing required terms to recipients, not using supplier names for endorsement, and indemnifying, defending, and holding the suppliers harmless to the extent stated in the original terms. This License grants no broader rights than those terms.
+
+9. Data and Backups
+Data on each device is local and independent. There is no synchronization between phone and computer or between devices. You alone are responsible for creating backups, keeping them safe, and testing restoration. Removing the application or losing or damaging a device may result in data loss.
+
+10. As-Is Provision
+The application and its components are provided "AS IS" and "AS AVAILABLE," without express or implied warranties, including warranties of fitness for a particular purpose, merchantability, and non-infringement, to the maximum extent permitted by law.
+
+11. Limitation of Liability
+To the maximum extent permitted by law, neither the rights holder nor component suppliers are liable for loss of data or profits, business interruption, or indirect, incidental, special, consequential, or punitive damages arising from the application or inability to use it, under any theory of liability and even if advised of the possibility of damage.
+
+12. Mandatory Rights
+This License does not limit any mandatory user right that applicable law does not permit to be waived or restricted.
+
+This License specifies no governing law or exclusive court.

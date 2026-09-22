@@ -1,0 +1,11 @@
+RUNNING AGRIBUDGET ON WINDOWS — VERSION 1.0
+
+1. Extract the entire ZIP archive to a new folder before running the application.
+2. Do not run the executable by itself, and do not move or separate it from the adjacent files and directories.
+3. Run AgriBudget.exe from inside the application directory.
+4. This is a portable, self-contained, 64-bit build. A separate .NET runtime installation is not required.
+5. The application is not digitally signed. Windows may show an unknown-publisher or reputation-protection warning. This warning does not mean that malware was detected. Verify the file checksum and download source before proceeding.
+6. The application may require the WebView component installed with Windows. The full WebView runtime is not bundled.
+7. To remove the portable build while keeping data, close the application and delete only the application directory. Application data is normally stored locally in the user's application-data directory, not in the portable program directory.
+8. To delete the data as well, first use the backup feature if you want to retain it, then delete only the confirmed local AgriBudget data directory. Do not delete any broad or shared directory.
+9. Phone and computer data are independent and are not synchronized.

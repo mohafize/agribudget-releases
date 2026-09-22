@@ -1,0 +1,10 @@
+AGRIBUDGET ANDROID INSTALLATION — VERSION 1.0
+
+1. This is a direct-download build and is not distributed through an app store.
+2. Download the complete final package and verify it against the checksum file.
+3. Open the package on the phone. Android may ask you to allow installation from this source. Allow only the source used for the download; you may revoke that permission after installation.
+4. This is a 64-bit package containing arm64-v8a and x86_64 architectures.
+5. The package runs on devices using 4 KB memory pages.
+6. On devices using 16 KB memory pages, the package uses Android's official page-size compatibility mode. It is not currently natively 16 KB compatible. An update will be issued when a stable platform fix is available.
+7. Data on each device is local and independent. There is no synchronization between phone and computer or between devices.
+8. Before updating or removing the application, create an in-app backup and keep it in a safe location.
